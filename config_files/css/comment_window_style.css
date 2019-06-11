@@ -23,8 +23,8 @@
 #comment-window {
 	/*height: 80%;
     max-height: 200px;	*/
-	width: 90%;
-    max-width: 400px;
+	max-width: 90%;
+    width: 400px;
     position: absolute;
 	top: 50%;
 	left: 50%;
